@@ -1,0 +1,5 @@
+{
+  "name": "O-GMIT Web Orchestrator",
+  "description": "A web-based interface to manage and monitor Off-Grid Media Ingest Tool (O-GMIT) tasks, simulating rsync progress, MHL manifest generation, and post-processing.",
+  "requestFramePermissions": []
+}
